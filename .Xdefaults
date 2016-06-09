@@ -1,0 +1,15 @@
+urxvt*scrollBar:         false
+urxvt*cursorBlink:       false
+
+URxvt.font:     xft:monospace:size=12:antialias=true
+URxvt.boldFont: xft:monospace:bold:size=12:antialias=true
+
+urxvt*shading:    50
+urxvt*transparent:true
+
+urxvt.background:  #000000
+urxvt.foreground:  #EBEBFF
+
+urxvt*borderLess:       true
+urxvt*internalBorder:       0
+urxvt*externalBorder:       0
